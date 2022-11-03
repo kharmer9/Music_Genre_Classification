@@ -16,7 +16,7 @@ Machine Learning Project to use supervised and unsupervised to analyze musical c
 
 <h3>Techniques and Notable Elements</h3>
 
-- <b>Data Cleaning and Visualizations</b>
+- <b>Data Cleaning and Visualization</b>
 - <b>Supervised Machine Learning Classification in sklearn (SVM, Decision Tree, Naive Bayes)</b>
 - <b>Unsupervised Machine Learning Clustering in sklearn (K-Means)</b>
 - <b>PCA Dimensionality Reduction</b>
